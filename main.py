@@ -3,6 +3,7 @@ students= []
 while True:
     print("1. Add student")
     print("2. View student")
+    print("3. Delete student")
 
     choice= input("Choice:")
 
